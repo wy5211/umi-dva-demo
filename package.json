@@ -28,7 +28,7 @@
     "umi": "^3.0.16",
     "yorkie": "^2.0.0"
   },
-  "name": "umi3app",
+  "name": "umi-demo-wy",
   "description": "Install dependencies,",
   "version": "1.0.0",
   "main": "index.js",
